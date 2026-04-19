@@ -121,7 +121,7 @@ Figure 81 - Confirmation de l'isolation de vlans distants par rapport vlans du s
 <br />
 Figure 82 - Confirmation de l'isolation de vlans distants par rapport vlans du site principale (PC-VLAN101-1):  <br/>
 <img src="https://imgur.com/1MURpjm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+Ce test vérifie que les utilisateurs du site distant ne peuvent pas "rebondir" sur d'autres segments du siège (Administration ou Postes utilisateurs) non déclarés dans la matrice de flux.<br />
 
 
 <!--
