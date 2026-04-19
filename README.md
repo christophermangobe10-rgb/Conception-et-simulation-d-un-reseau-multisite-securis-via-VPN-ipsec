@@ -67,13 +67,62 @@ Politique firewall site principale (VLAN Servers):  <br/>
 <img src="https://imgur.com/7N4DZE8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Figure 61 - Configuration vpn ipsec tunnel phase 1 au site principale:  <br/>
+<img src="https://imgur.com/GamCFN8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Figure 62 - Configuration vpn ipsec tunnel phase 2 au site principale:  <br/>
+<img src="https://imgur.com/0KAuQAA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 63 - Configuration vpn ipsec tunnel phase 1 au site distant:  <br/>
+<img src="https://imgur.com/rVz1WYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 64 - Configuration vpn ipsec tunnel phase 2 au site distant:  <br/>
+<img src="https://imgur.com/PhDafqQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 73 - Topologie du réseau sous GNS3:  <br/>
+<img src="https://imgur.com/ADz8ZJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 74 - teste de connectivité inter-vlans au site principale (PC-VLAN10-1):  <br/>
+<img src="https://imgur.com/uDu1MzF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 75 - teste de connectivité inter-vlans au site principale (PC-VLAN20-1):  <br/>
+<img src="https://imgur.com/PoGFwKa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 76 - teste de connectivité inter-vlans au site principale (Mon serveur):  <br/>
+<img src="https://imgur.com/BUSNJvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 77 - teste de connectivité inter-vlans au site distant (PC-VLAN100-1):  <br/>
+<img src="https://imgur.com/3JIFTQc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 78 - teste de connectivité inter-vlans au site distant (PC-VLAN101-1):  <br/>
+<img src="https://imgur.com/3UWnzXA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 79 - teste de connectivité Site distant vers le serveur/site principale (PC-VLAN100-1):  <br/>
+<img src="https://imgur.com/jT5DH7o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 80 - teste de connectivité Site distant vers le serveur/site principale (PC-VLAN101-1):  <br/>
+<img src="https://imgur.com/3HJNhCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 81 - Confirmation de l'isolation de vlans distants par rapport vlans du site principale (PC-VLAN100-1):  <br/>
+<img src="https://imgur.com/BxXSZmA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Figure 82 - Confirmation de l'isolation de vlans distants par rapport vlans du site principale (PC-VLAN101-1):  <br/>
+<img src="https://imgur.com/1MURpjm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 <!--
  ```diff
